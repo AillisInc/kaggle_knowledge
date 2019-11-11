@@ -1,4 +1,4 @@
-# SIGNATE: Student Cup 2019
+# SIGNATE: Student Cup 2019 (WIP)
 
 ## メンバー
 
