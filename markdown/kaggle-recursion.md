@@ -1,4 +1,4 @@
-# Kaggle: Recursion Cellular Classification (WIP)
+# Kaggle: Recursion Cellular Classification
 
 ## メンバー
 
